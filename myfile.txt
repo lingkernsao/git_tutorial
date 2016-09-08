@@ -4,8 +4,3 @@ commit: 인덱스 상태를 기록하기
 $ git add myfile.txt
 $ git commit -m "commit의 설명 추가"
 [issue2 8f7aa27] commit의 설명 추가
-pull: 원격 저장소의 내용을 가져오기 
-$ git add myfile.txt
-$ git commit -m "pull 설명을 추가"
-[issue3 e5f91ac] pull 설명을 추가
- 1 files changed, 2 insertions(+), 0 deletions(-)
